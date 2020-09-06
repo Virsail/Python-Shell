@@ -54,4 +54,8 @@ class TestCredentials(unittest.TestCase):
         '''
         method that does clean up after each test case has run.
         '''
+         Credentials.credentials_list = []
+
+    def test_save_many_accounts(self):
+        '''
 
