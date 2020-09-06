@@ -77,5 +77,8 @@ class TestCredentials(unittest.TestCase):
         self.assertEqual(len(Credentials.credentials_list),1)
 
     def test_find_credentialr(self):
+         """
+        test to check if we can find a credential entry by account name and display the details of the credential
+        """
 
 
