@@ -36,3 +36,6 @@ class TestCredentials(unittest.TestCase):
         """
          self.new_credential = Credentials('Gmail','Owiti_Charles','yx5Gij43')
     def test_init(self):
+        """
+        Test case to check if a new Credentials instance has been initialized correctly
+        """
