@@ -52,4 +52,6 @@ class TestCredentials(unittest.TestCase):
 
         def tearDown(self):
         '''
+        method that does clean up after each test case has run.
+        '''
 
