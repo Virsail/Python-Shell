@@ -42,3 +42,6 @@ class TestCredentials(unittest.TestCase):
          self.assertEqual(self.new_credential.account,'Gmail')
         self.assertEqual(self.new_credential.userName,'Owiti_Charles')
         self.assertEqual(self.new_credential.password,'yx5Gij43')
+
+    def save_credential_test(self):
+        """
