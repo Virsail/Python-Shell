@@ -58,4 +58,6 @@ class TestCredentials(unittest.TestCase):
 
     def test_save_many_accounts(self):
         '''
+        test to check if we can save multiple credentials objects to our credentials list
+        '''
 
