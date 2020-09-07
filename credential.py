@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python3
 from user import User, Credentials
 
 def create_new_user(username,password):
