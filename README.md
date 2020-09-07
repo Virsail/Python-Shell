@@ -9,8 +9,7 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
-
-<img src="https://raw.githubusercontent.com/Virsail/Python-Shell/master/image/ip1.png" width="900px" height="440px">
+![CPSP](images/CPSPwebpage.png)
 
 ## User Story
 The user would like to
