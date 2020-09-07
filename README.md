@@ -9,9 +9,9 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/Virsail/Python-Shell/master/images/screenshot1.png" width="800px" height="420px">
+<img src="https://raw.githubusercontent.com/Virsail/Password-Locker/master/image/screenshot1.png" width="900px" height="440px">
 
-## User Stories
+## User Story
 The user would like to.... :
 * To create an account for the application or log into the application.
 * Store my existing acounts login details for various accounts that i have registered for.
