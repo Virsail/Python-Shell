@@ -12,7 +12,7 @@ This project is a python application that manages login and signup credentials o
 <img src="https://raw.githubusercontent.com/Virsail/Python-Shell/master/image/screenshot1.png" width="900px" height="440px">
 
 ## User Story
-The user would like to.... :
+The user would like to
 * To create an account for the application .
 * Store my existing acounts login details for various accounts that i have registered for.
 * Generate new password for an account that i haven't registered for and store it with the account name.   
