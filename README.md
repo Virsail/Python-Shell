@@ -9,7 +9,7 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/Virsail/Password-Locker/master/image/screenshot1.png" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/Virsail/Python-Shell/master/image/screenshot1.png" width="900px" height="440px">
 
 ## User Story
 The user would like to.... :
