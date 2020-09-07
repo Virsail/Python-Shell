@@ -1,7 +1,7 @@
 # Python Shell
 ## Author
 
-[Virsail](https://github.com/Owiti-Virsail)
+[Virsail](https://github.com/Virsail)
 
 ## Description
 
