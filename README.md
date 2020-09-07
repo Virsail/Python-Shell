@@ -8,9 +8,12 @@
 This project is a python application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves.User can also copy credentials to clipboard.
 
 ## Screenshot
+![Screenshot8](https://user-images.githubusercontent.com/66640798/92397887-38175980-f130-11ea-9865-1c6970eeea21.png)
 
 
-<img src="https://raw.githubusercontent.com/Virsail/images/ip1.png" width="900px" height="440px">
+
+
+
 
 ## User Story
 The user would like to
