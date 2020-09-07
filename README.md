@@ -9,7 +9,7 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
-![CPSP](image/ip2.png)
+![Password-locker](image/ip2.png)
 
 ## User Story
 The user would like to
