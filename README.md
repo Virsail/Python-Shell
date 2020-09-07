@@ -1,4 +1,4 @@
-# Python Shell (Password Locker)
+# Python Shell
 ## Author
 
 [Virsail-Mbagaya](https://github.com/Owiti-Virsail)
@@ -23,7 +23,7 @@ The user would like to.... :
 ## Installation / Setup instruction
 
 #### The application requires the following installations to operate 
-* python3.6
+* python3.8
 * pyperclip
 * pip
 
@@ -31,7 +31,7 @@ The user would like to.... :
 
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Password-Locker.git```
+* git clone ```https://github.com/Virsail/Python-Shell.git```
 
 * cd Password-Locker
 
