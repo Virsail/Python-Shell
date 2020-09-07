@@ -53,9 +53,9 @@ The user would like to
 |User Selects LI  | User Enters password and username he signed up with| Abbreviations menu to help you navigate through the application|
 | User Stores a new credential in the application| User Enters ```CC```|Enter Account, username, password<br>choose ```tp``` to enter your password or ```gp``` for the application to generate a password for you |
 |Display all stored credentials |User Enters ```DC```|A list of all credentials that has been stored or ```You don't have any credentials saved yet``` |
-|Find a stored credential based on account name|Enter ```FC```| Enter the Account Name you want to search for and returns the account details|
-|Delete an existing credential that you don't want anymore|Enter ```D```|Enter the account name of the Credentials you want to delete and returns true if the account has been deleted and false if the account doesn't exixt|
-|Exit the application| Enter ```D```| The application exits|
+|Find a stored credential based on account name|User Enters ```FC```| Enter the Account Name you want to search for and returns the account details|
+|Delete an existing credential that you don't want anymore|User Enters ```D```|Enter the account name of the Credentials you want to delete and returns true if the account has been deleted and false if the account doesn't exixt|
+|Exit the application|User Enters ```D```| The application exits|
 
 ## Technologies Used
 
