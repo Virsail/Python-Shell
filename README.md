@@ -10,7 +10,7 @@ This project is a python application that manages login and signup credentials o
 ## Screenshot
 
 
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Password-Locker/master/images/ip1.png" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/Virsail/Password-Locker/master/images/ip1.png" width="900px" height="440px">
 
 ## User Story
 The user would like to
