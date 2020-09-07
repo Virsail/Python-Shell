@@ -48,9 +48,9 @@ The user would like to
 ## Behaviour Driven Development
 | Given | When | Then |
 | :---------------- | :---------------: | ------------------: |
-| User Opens the application on the terminal | User runs the command ```$ ./credential.py```|Hello Welcome to your Password Locker Manager... <br>* CA ---  Create New Account * LI ---  Have An Account |
-|Select  CA| input username and password| Hello ```username```, Your account has been created succesfully! Your password is: ```password```|
-|Select LI  | Enter your password and username you signed up with| Abbreviations menu to help you navigate through the application|
+| User Opens the application on the terminal | User runs the command ```$ ./credential.py```|Hello Welcome to your Accounts Password Locker Manager... <br>* CA ---  Create New Account * LI ---  Have An Account |
+|User Selects  CA| input username and password| Hello ```username```, Your account has been created succesfully! Your password is: ```password```|
+|User Selects LI  | Enter your password and username you signed up with| Abbreviations menu to help you navigate through the application|
 |Store a new credential in the application| Enter ```CC```|Enter Account, username, password<br>choose ```tp``` to enter your password or ```gp``` for the application to generate a password for you |
 |Display all stored credentials | Enter ```DC```|A list of all credentials that has been stored or ```You don't have any credentials saved yet``` |
 |Find a stored credential based on account name|Enter ```FC```| Enter the Account Name you want to search for and returns the account details|
