@@ -33,20 +33,20 @@ The user would like to.... :
 
 * git clone ```https://github.com/Virsail/Python-Shell.git```
 
-* cd Password-Locker
+* cd Password-locker
 
 * code . or atom . based on the text editor you have.
 
 ### Running the Application
 * To run the application, open the cloned file in terminal and run the following commands:
 
-        $ chmod +x interface.py
-        $ ./interface.py
+        $ chmod +x credential.py
+        $ ./credential.py
 * To run test for the application
-        $ python3 passlock_test.py
+        $ python3 user_test.py
 
 ## Behaviour Driven Development
-| Behaviour | Input | Output |
+| Given | When | Then |
 | :---------------- | :---------------: | ------------------: |
 |Open the application on the terminal | Run the command ```$ ./interface.py```|Hello Welcome to your Accounts Password Store... <br>* CA ---  Create New Account * LI ---  Have An Account |
 |Select  CA| input username and password| Hello ```username```, Your account has been created succesfully! Your password is: ```password```|
