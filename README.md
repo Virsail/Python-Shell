@@ -9,7 +9,7 @@ This project is a python application that manages login and signup credentials o
 
 ## Screenshot
 
-![screenshot](screenshot4.png)
+<img src="/Desktop/Password-locker/image/screenshot4.png" alt="photo"/>
 
 ## User Story
 The user would like to
