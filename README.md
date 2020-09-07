@@ -60,11 +60,13 @@ The user would like to
 ## Technologies Used
 
 * python3.8
-
-
 ## Contact Information 
- [virsaileric@gmail.com]
+Find me on @Ericmbagaya@gmail.com
 
-## License
-* *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+Copyright (c) 2020 mbagaya
