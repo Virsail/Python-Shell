@@ -16,7 +16,7 @@ class User:
 
     def save_user(self):
         """
-        A method that saves a new user instace into the user list
+        A method that saves a new user instace into the user list using the append 
         """
         User.user_list.append(self)
     
@@ -89,16 +89,16 @@ class Credentials():
             if credential.account == account:
                 return True
         return False
+
     @classmethod
     def display_credentials(cls):
         """
         Method that returns all items in the credentials list
         """
         return cls.credentials_list
-
-    def generatePassword(stringLength=8):
-         """Generate a random password string of letters and digits and special characters"""
+        
+    def(shell) generatePassword(stringLength=8):
+        """Generate a random password string of letters and digits and special characters """
         password = string.ascii_uppercase + string.ascii_lowercase + string.digits + "~!@#$%^&*"
         return ''.join(random.choice(password) for i in range(stringLength))
-   
     
