@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python3
 from user import User, Credentials
 
 def create_new_user(username,password):
@@ -173,7 +173,7 @@ def passlocker():
             print(f" {password} Has been generated succesfully. You can proceed to use it ")
 
         elif short_code == 'ex':
-            print("Thanks for using password Locker manager.. Be back soon!")
+            print("Thanks for using Accounts password Locker manager.. Be back soon!")
             break
         else:
             print("Wrong entry... Check your entry again and let it match options available")
