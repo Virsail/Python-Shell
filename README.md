@@ -37,7 +37,7 @@ The user would like to
 
 * git clone ```https://github.com/Virsail/Python-Shell.git```
 
-* cd Password-locker
+* cd Python-Shell
 
 * code . or atom . based on the text editor you have.
 
